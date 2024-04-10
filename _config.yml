@@ -10,13 +10,13 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+  theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "chasing RS"
+title                    : "chasing rennsport"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "chase hunter"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "chase hunter"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "porsche paint to sample **and** silver wheels."
+  bio              : "paint to sample **and** silver wheels."
   location         : "atlanta, ga"
   email            : "chasemhunter@gmail.com"
   links:
