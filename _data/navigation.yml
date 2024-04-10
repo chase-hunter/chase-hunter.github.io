@@ -2,7 +2,7 @@
 main:
   - title: "github"
     url: https://github.com/chase-hunter
-  # - title: "other projects"
+  - title: "about me"
   #   url: https://github.com/chase-hunter/dance
   # - title: "Sample Posts"
   #   url: /year-archive/
