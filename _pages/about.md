@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /about.md
 title: "About"
 excerpt: "chase hunter is a car enthusiast from atlanta, georgia"
 layouts_gallery:
