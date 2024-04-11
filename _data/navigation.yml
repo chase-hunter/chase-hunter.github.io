@@ -3,7 +3,7 @@ main:
   - title: "github"
     url: https://github.com/chase-hunter
   - title: "about me"
-     url: https://github.com/chase-hunter/chase-hunter.github.io/blob/master/_pages/about.md
+    url: /_pages/about.md
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
