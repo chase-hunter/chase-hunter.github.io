@@ -51,7 +51,7 @@ params:
           enabled: true
           title: Chase Hunter
           subtitle: "I’m an IT Support Analyst based in the U.S., currently working at the Level 2 tier. I focus on keeping systems running smoothly, solving complex technical issues, and improving user experiences across a range of environments. My work centers on troubleshooting, infrastructure support, and making technology simpler and more reliable for the people who depend on it."
-          imageUrl: "placeholder"
+          imageUrl: "/picture.jpeg"
           imageWidth: 130
           imageHeight: 130
           buttons:
