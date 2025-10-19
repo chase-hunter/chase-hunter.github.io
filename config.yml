@@ -50,8 +50,6 @@ params:
               url: projects/
 
     socialIcons:
-        - name: Resume
-          url: resume.pdf
         - name: Email
           url: mailto:chasemhunter@gmail.com
         - name: GitHub
