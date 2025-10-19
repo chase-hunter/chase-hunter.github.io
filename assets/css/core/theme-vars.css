@@ -16,9 +16,9 @@
     --secondary: rgb(108, 108, 108); /*metadata and h4 and h5 titles*/
     --tertiary: rgb(165, 165, 165); /* items and h6 titles*/
     --border: rgb(230, 230, 230); /*borders*/
-    --code-bg: rgb(245, 245, 245); /*areas*/
+    --code-bg: rgb(37, 37, 37); /*areas*/
     --code-block-bg: var(--code-bg);
-    --theme: rgb(255, 255, 255);
+    --theme: rgb(37, 37, 37);
     --entry: var(--theme); /*background*/
     
     /* Custom variables */
