@@ -61,12 +61,15 @@ params:
               url: dashboard/  
 
     socialIcons:
-        - name: CV
-          url: void.pdf
+        - name: Resume
+          url: resume.pdf
         - name: Email
           url: mailto:chasemhunter@gmail.com
         - name: GitHub
           url: https://github.com/chase-hunter
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/chase-hunter-b47572235/
+
 
     assets:
         disableScrollBarStyle: true
