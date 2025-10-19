@@ -11,18 +11,9 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Projects
+          url: projects/
           weight: 2
-        - name: Dashboard
-          url: dashboard/
-          weight: 3
-        - name: Courses
-          url: courses/
-          weight: 4
-        - name: Design
-          url: design/
-          weight: 5        
 
 params:
     description: "This website hosts Chase Hunter."
@@ -57,8 +48,6 @@ params:
           buttons:
             - name: Projects
               url: projects/
-            - name: Dashboard
-              url: dashboard/  
 
     socialIcons:
         - name: Resume
