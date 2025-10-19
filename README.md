@@ -1,6 +1,6 @@
 # pascalmichaillat.org - Source Code and Content
 
-This repository contains the source code and content for Chase Hunter's website at https://pascalmichaillat.org. 
+This repository contains the source code and content for website at https://pascalmichaillat.org. 
 
 ## Source code
 
