@@ -51,6 +51,9 @@ params:
           buttons:
             - name: Projects
               url: projects/
+            - name: Issue Resolution
+              url: issueresolution/
+              weight: 3
 
     socialIcons:
         - name: Email
