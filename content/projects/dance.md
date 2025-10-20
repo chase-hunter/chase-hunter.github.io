@@ -4,6 +4,12 @@ date: 2023-11-13
 url: /dance/
 author: Chase Hunter
 description: dance! is a split wireless only keyboard powered by ZMK.
+cover:
+    image: "/dance.jpg"
+    alt: "dance! keyboard"
+showToc: true
+disableAnchoredHeadings: false
+
 ---
 
 ## Introduction
