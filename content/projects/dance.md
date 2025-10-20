@@ -7,7 +7,7 @@ description: dance! is a split wireless only keyboard powered by ZMK.
 cover:
     image: "/dance.jpg"
     alt: "dance! keyboard"
-showToc: true
+showToc: false
 disableAnchoredHeadings: false
 
 ---
