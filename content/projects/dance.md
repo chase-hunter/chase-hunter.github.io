@@ -16,11 +16,10 @@ Ergonomic Design: The "dance" keyboard is designed to reduce strain on the hands
 
 Customizable Layout: The keyboard offers a customizable key layout, meaning users can reassign keys to suit their preferences or optimize their workflow. It's highly flexible, making it suitable for both beginners and advanced users.
 
-Open-Source Firmware: The keyboard's firmware is open-source, allowing developers to modify and improve it, as well as create custom configurations. The firmware is compatible with various software and platforms, ensuring broad accessibility.
+Open-Source Firmware: The keyboard's firmware is open-source, allowing myself and other developers to modify and improve it, as well as create custom configurations.
 
-DIY Build: This project is targeted at enthusiasts who are interested in building their own custom ergonomic keyboard. It includes detailed instructions for hardware assembly and software configuration.
-
-Focus on Comfort and Efficiency: Overall, the "dance" keyboard prioritizes user comfort with its ergonomic layout while maintaining efficiency through customizable features, making it ideal for those who spend long hours typing.
+Focus on Comfort and Efficiency: Overall, the "dance!" keyboard prioritizes user comfort with its ergonomic layout while maintaining efficiency through customizable features, making it ideal for those who spend long hours typing.
+##### specifications
 
 - 3x5 36-key split keyboard
 - choc spacing

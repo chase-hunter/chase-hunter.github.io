@@ -41,7 +41,7 @@ params:
     profileMode:
           enabled: true
           title: Chase Hunter
-          subtitle: "I fix tech during the day and build things for fun after hours — usually keyboards, cars, or whatever I’m currently obsessed with. I like clean design, good engineering, and projects that feel intentional."
+          subtitle: "I fix tech during the day and build things for fun after hours — usually keyboards, cars, or whatever I'm currently interested in. I like clean design, good engineering, and projects that feel intentional."
           imageUrl: "/picture.jpeg"
           imageWidth: 130
           imageHeight: 130
