@@ -12,6 +12,12 @@ disableAnchoredHeadings: false
 
 ---
 
++ [Check out dance! on GitHub](https://github.com/chase-hunter/dance)
++ [Stable Firmware](https://github.com/chase-hunter/zmk-config-dance)
++ [Feature Testing Firmware](https://github.com/chase-hunter/zmk-config-dancetrials)
+
+---
+
 ## Introduction
 This project focuses on creating a keyboard that enhances user comfort and typing efficiency through ergonomic design principles.
 
