@@ -14,6 +14,7 @@ disableAnchoredHeadings: false
 
 ## Introduction
 This project focuses on creating a keyboard that enhances user comfort and typing efficiency through ergonomic design principles.
+
 ---
 
 ## features
