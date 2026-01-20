@@ -44,7 +44,7 @@ params:
     profileMode:
           enabled: true
           title: Chase Hunter
-          subtitle: "IT professional by trade, naturally hands-on. I’m driven by problem-solving, continuous learning, and interests that span technology, interactive systems, and performance-driven engineering."
+          subtitle: "IT professional by trade, naturally hands-on. I’m motivated by problem-solving and interests that encourage exploration, learning, and improvement."
           imageUrl: "/picture.jpeg"
           imageWidth: 130
           imageHeight: 130
