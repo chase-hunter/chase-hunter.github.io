@@ -51,9 +51,9 @@ params:
           buttons:
             - name: Projects
               url: projects/
-            - name: Thoughts and Interests
-              url: thoughts/
-              weight: 3
+           ## - name: Thoughts and Interests
+           ##   url: thoughts/
+           ##   weight: 3
 
     socialIcons:
         - name: Email
