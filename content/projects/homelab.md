@@ -19,15 +19,15 @@ It's where I test ideas before I'd ever bring them near a client environment, an
 
 ## Stack
 
-Hypervisor: Hyper-V, hosting all services as isolated VMs
+- Hypervisor: Hyper-V, hosting all services as isolated VMs
 
-Pi-hole: Network-wide DNS filtering, with a custom Local Domain Fallback configured using a .home.lan suffix so internal hosts resolve cleanly without hitting public DNS
+- Pi-hole: Network-wide DNS filtering, with a custom Local Domain Fallback configured using a .home.lan suffix so internal hosts resolve cleanly without hitting public DNS
 
-Homebridge: Bridges non-HomeKit smart home devices into Apple's ecosystem
+- Homebridge: Bridges non-HomeKit smart home devices into Apple's ecosystem
 
-AzerothCore: A private World of Warcraft server, mostly for tinkering with game server administration and database management outside of a "serious" production context
+- AzerothCore: A private World of Warcraft server, mostly for tinkering with game server administration and database management outside of a "serious" production context
 
-Cloudflare Zero Trust (ZTNA): Secure remote access into the lab without exposing anything directly to the internet
+- Cloudflare Zero Trust (ZTNA): Secure remote access into the lab without exposing anything directly to the internet
 
 ## Why this setup?
 
