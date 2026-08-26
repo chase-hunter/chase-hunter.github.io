@@ -45,7 +45,7 @@ params:
           enabled: true
           title: Chase Hunter
           subtitle: "IT professional by trade, naturally hands-on. I’m motivated by problem-solving and interests that encourage exploration, learning, and improvement."
-          imageUrl: "/picture.jpeg"
+          imageUrl: "/headshot.jpg"
           imageWidth: 130
           imageHeight: 130
           buttons:
