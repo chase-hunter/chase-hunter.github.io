@@ -51,9 +51,9 @@ params:
           buttons:
             - name: Projects
               url: projects/
-           ## - name: Thoughts and Interests
-           ##   url: thoughts/
-           ##   weight: 3
+            - name: Thoughts and Interests
+              url: thoughts/
+              weight: 3
 
     socialIcons:
         - name: Email
@@ -62,6 +62,8 @@ params:
           url: https://github.com/chase-hunter
         - name: LinkedIn
           url: https://www.linkedin.com/in/chase-hunter-b47572235/
+        - name: Resume
+          url: /resume.pdf
 
 
     assets:
