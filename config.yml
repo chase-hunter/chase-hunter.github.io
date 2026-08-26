@@ -66,8 +66,6 @@ params:
         - name: linkedin
           title: LinkedIn
           url: https://www.linkedin.com/in/chase-hunter-b47572235/
-        ##- name: CV
-        ##  url: /resume.pdf
 
 
     assets:
