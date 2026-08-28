@@ -32,6 +32,7 @@ Customizable Layout: The keyboard offers a customizable key layout, meaning user
 Open-Source Firmware: The keyboard's firmware is open-source, allowing myself and other developers to modify and improve it, as well as create custom configurations.
 
 Focus on Comfort and Efficiency: Overall, the "dance!" keyboard prioritizes user comfort with its ergonomic layout while maintaining efficiency through customizable features, making it ideal for those who spend long hours typing.
+
 ##### specifications
 
 - 3x5 36-key split keyboard
